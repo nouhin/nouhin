@@ -1,30 +1,46 @@
-# Hello, I'm Nohayla ! 👋
+# Hello, I'm Nohayla! 👋
 
 ## Data Scientist | Innovator | Tech Enthusiast
 
-Welcome to my GitHub space where data meets creativity and innovation!
+"Transforming data into innovative solutions with a touch of creativity."
 
 ### 🌟 About Me
-- Data Scientist with a passion for turning data puzzles into elegant software solutions.
-- One year of experience at ArcelorMittal, where I've traversed the realms from database creation to model development and software integration.
-- Committed to lifelong learning and collaborative growth.
-<!--
-### 🔍 My Work
-- Explore my pinned repositories to see my best work. Each project tells a story of challenges tackled with a blend of analytics and intuition.
-- Delve into my diverse project portfolio that ranges from industry-specific solutions to innovative model development.
+- 📊 Data Scientist with a passion for crafting elegant software solutions from complex data puzzles.
+- 👩‍💻 One year of diverse experience at ArcelorMittal, blending database wizardry with sophisticated model development and software prowess.
+- 🌱 Lifelong learner and advocate for collaborative innovation.
 
-### 💡 Featured Projects
-- [Project Name]: A venture into [industry/problem domain], showcasing [techniques, models, or insights gained].
-- [Project Name]: An example of [software/tool developed] that integrates seamlessly with data models for [intended application].
+### 🛠️ Technical Toolbox
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
+### 🎨 IDE Palette
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<!-- 
+### 🚀 Some of My Adventures
+Uncomment and replace with your projects when ready to showcase
+- [Project Name]: An exploration into the world of [topic], featuring insights on [specific features].
+- [Project Name]: A [tool/software] designed to [solve a problem], enhancing [specific application].
 -->
-### 🛠️ Skills
-- Languages: C, Python, R, SQL
-- Tools: VSCode, Jupyter, Pandas, Scikit-learn, TensorFlow
-- Database Management, Data Visualization, Machine Learning, Software Development
 
-### 📫 Get In Touch
-- Let's connect and embark on a journey of data discovery together.
-- Reach out to me on [LinkedIn](https://www.linkedin.com/in/nohayla-ajmi/) or send me an [email](mailto:ajmi.nohayla@gmail.com)
+### 📫 Connect with Me
+- 🌐 Let's journey through the data universe together!
+- 💌 How to reach me: [LinkedIn](https://www.linkedin.com/in/nohayla-ajmi/) | [Email](mailto:ajmi.nohayla@gmail.com)
+<!-- 
+![Nohayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohayla&show_icons=true&theme=radical)
+ -->
+
+<!-- Feel free to add or modify any section to fit your own style and preferences -->
+
 
 
 <!--
